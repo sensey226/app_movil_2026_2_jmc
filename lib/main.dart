@@ -17,7 +17,7 @@ class MiPerfilApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // NOMBRE PERSONALIZADO
-      home: const PerfilScreen(nombreEstudiante: 'Jhoel Miflen'),
+      home: const PerfilScreen(nombreEstudiante: 'Jhoel Miflen - V2'),
     );
   }
 }
